@@ -1,4 +1,4 @@
-This project allows you to replace an aged Keithley 2002 VFD with a 4.58" colour TFT, (and in theory a 2001, I will be testig this shortly).
+This project allows you to replace an aged Keithley 2002 VFD with a 4.58" colour TFT, (and in theory a 2001 which I will be testing this shortly).
 
 The project uses an off the shelf ESP32-S3 Qualia microsontroller board from Adafruit, along with a 4.58" TFT, get both from Adafruit, links are in the code header.
 
