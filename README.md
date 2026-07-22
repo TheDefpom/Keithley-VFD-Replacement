@@ -9,3 +9,6 @@ The tricky part is the font used, I had to modify a "good enough" version fo the
 I have made a video showing the reverse engineering, proof of concepts, and the final build and installation of the TFT into my Keithley 2002, this can be seen here: https://youtu.be/HHad28dQnug
 
 Original credit and links must remain in the code header for any forks of the code.
+
+
+<img width="1709" height="1223" alt="thumbpic" src="https://github.com/user-attachments/assets/4f359531-740a-4ff7-80cc-f993cd2fa029" />
