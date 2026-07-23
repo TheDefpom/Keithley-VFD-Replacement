@@ -17,5 +17,7 @@ Original credit and links must remain in the code header for any forks of the co
 
 Revision history:
 (Rev - Date - By - Changes)
+
 Rev 1.0 - 17th July 2026 - The Defpom - Initial release
+
 Rev 1.01 - 23rd July 2026 - The Defpom - Added space injection in main readout for 8.5 digit mode to improve readout ie: 1.23456789mV to 1.23456789 mV
