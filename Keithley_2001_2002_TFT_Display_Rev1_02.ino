@@ -1,7 +1,7 @@
 /*
   Keithley 2001 and 2002 VFD Display Replacement
 
-  Version 1.02 - 23rd July 2026 by Scott - aka The Defpom
+  Version 1.02 - 26th July 2026 by Scott - aka The Defpom
 
   Created by The Defpom http://www.thedefpom.co.nz https://www.youtube.com/thedefpom
 
