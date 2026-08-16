@@ -21,3 +21,5 @@ Revision history:
 Rev 1.0 - 17th July 2026 - The Defpom - Initial release
 
 Rev 1.01 - 23rd July 2026 - The Defpom - Added space injection in main readout for 8.5 digit mode to improve readout ie: 1.23456789mV to 1.23456789 mV
+
+Rev 1.02 - 26th July 2026 - The Defpom - Added display update timer to slow down display writing to sensible speed.
